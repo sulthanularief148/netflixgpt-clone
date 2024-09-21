@@ -1,14 +1,14 @@
 # Netflix GPT
  
  Using React and Tailwind CDD:
-  # react-router-dom
-  # tailwindcss
-  # firebase
+  - react-router-dom
+  - tailwindcss
+  - firebase
   
  Hooks I used This Project:
-  # useState()
-  # useEffect()
-  # useRef()
+  - useState()
+  - useEffect()
+  - useRef()
   
  Login/Sign Up Page
  Validation
@@ -19,7 +19,7 @@
  Step 3: Install firebase CLi to your App(npm install -g firebase-tools) - Global command
  Step 4:Deploy to firebase hosting
  # Authentication
-   # npm i -g firebase-tools
-   # firebase login
-   # firebase init
-   # firebase deploy
+  - npm i -g firebase-tools
+  - firebase login
+  - firebase init
+  - firebase deploy
