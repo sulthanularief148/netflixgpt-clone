@@ -1,4 +1,5 @@
 # Netflix GPT
+Live url: [text](https://netflixgpt-cee91.web.app/)
  
  Using React and Tailwind CDD:
   - react-router-dom
