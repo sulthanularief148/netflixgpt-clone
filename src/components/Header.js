@@ -3,10 +3,6 @@ import { logo } from '../assets'
 
 const Header = () => {
     return (
-
-        // outline: none;
-        // background: transparent;
-        // border: 2px solid gray;
         <header className='grid grid-cols-3 p-8 '>
             <div className='logo'>
                 <figure>
@@ -21,9 +17,6 @@ const Header = () => {
                     </select>
 
                 </div>
-                {/* <div className='bg-red-700 rounded-xl'>
-                    <button className='p-2 rounded-lg text-white w-24'>sign in</button>
-                </div> */}
             </div>
 
         </header>
